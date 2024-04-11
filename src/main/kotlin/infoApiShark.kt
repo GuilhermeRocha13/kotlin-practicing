@@ -1,3 +1,3 @@
 package org.example
 
-data class infoApiShark()
+data class infoApiShark(val title:String, val thumb:String)
